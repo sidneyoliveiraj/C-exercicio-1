@@ -16,6 +16,7 @@ ano_nascimento = ano_atual - idade;
 //Qual é a saida de dado ?
 printf("O ano que voce nasceu e %i",ano_nascimento);
 
+
 return 0;
 
 }
